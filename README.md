@@ -1,2 +1,3 @@
-# dasar-pemrograman
-Repo yang berisi materi untuk belajar Dasar Pemrograman
+# Dasar Pemrograman
+
+Repo ini berisi materi-materi tentang dasar pemrograman 
